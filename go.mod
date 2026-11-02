@@ -1,4 +1,4 @@
-module grpc-lesson-1
+module github.com/AlearvickOne/lesson-protos
 
 go 1.27
 
